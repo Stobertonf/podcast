@@ -1,16 +1,27 @@
 # podcast
 
-A new Flutter project.
+## Seja bem vindo
 
-## Getting Started
+👋 Olá, seja bem vindo.
 
-This project is a starting point for a Flutter application.
+## Curso
 
-A few resources to get you started if this is your first Flutter project:
+💻 Aplicativo do Laboratório de Projetos Práticos, do professor João Paulo Matias na plataforma Digital Innovation One (dio.me).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Escopo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📚 Neste curso, eu vou ter a oportunidade de fazer um app de Podcast, para permiter que os usuários possam aprender sobre seus serviços e produtos sem precisar interromper o que está fazendo ou enquanto realiza tarefas diárias. A ideia do projeto é a aprender a desenvolver um App de Podcast.
+
+
+## Foco
+
+😊 O curso é focado em desenvolver um App de Podcast.
+
+## Prazo
+
+⚡ Este projeto foi inicializado no dia 05/03/2023.
+
+## Imagens
+
+:camera: Neste momento, eu não possuo imagens, no entanto, em breve irei disponibilizar.
+
